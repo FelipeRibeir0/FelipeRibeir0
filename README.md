@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeir0&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- ## Essas são as tecnologias que atualmente estou aprimorando
+ ## Essas são as tecnologias que atualmente estou aprendendo e aprimorando.
 
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="142">      
