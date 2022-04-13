@@ -1,4 +1,7 @@
 ## Olá, sou o Felipe Ribeiro, estudante de programação e futuro Web Dev!
+Um pouco sobre mim: Sou um estudante de Curso Técnico em Desenvolvimento de Sistemas na ETEC. Atualmente estou me dedicando para me tornar um desenvolvedor front-end.
+
+
 <div align="center">
   <a href="https://github.com/FelipeRibeir0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
