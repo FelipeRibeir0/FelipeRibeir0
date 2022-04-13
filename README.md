@@ -10,8 +10,8 @@
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="142">      
  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="100">
- <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="100">      
- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="115">      
+ <a href="https://github.com/FelipeRibeir0/Csharp_Games"><img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="100"></a>      
+ <a href="https://github.com/FelipeRibeir0"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="115"></a>
 </div>
   
   ##
