@@ -1,8 +1,8 @@
 ## Olá, sou o Felipe Ribeiro, estudante de programação e futuro Web Dev!
 <div align="center">
   <a href="https://github.com/FelipeRibeir0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeir0&layout=compact&langs_count=7&theme"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeir0&layout=compact&langs_count=7&theme=react"/>
 </div>
   
  ## Essas são as tecnologias que atualmente estou aprendendo e aprimorando.
