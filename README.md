@@ -11,10 +11,10 @@ Um pouco sobre mim: Sou um estudante de Curso Técnico em Desenvolvimento de Sis
  ## Essas são as tecnologias que atualmente estou aprendendo e aprimorando.
 
 <div align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="142">      
- <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="100">
- <a href="https://github.com/FelipeRibeir0/Csharp_Games"><img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="100"></a>      
- <a href="https://github.com/FelipeRibeir0"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="115"></a>
+<img align="center" alt="HTML" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<a href="https://github.com/FelipeRibeir0/Csharp_Games"> <img align="center" alt="Csharp" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>      
+ <a href="https://github.com/FelipeRibeir0"><img align="center" alt="Github" height="90" width="90" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" ></a>
 </div>
   
   ##
