@@ -27,10 +27,10 @@
 ## 🔸 My tools.
     
 <div align="left">
+<a href="https://github.com/FelipeRibeir0">
+<img alt="Git" height="70" width="70" src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png">
 <img alt="VS Code" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img alt="VS" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png">
-<img alt="Csharp" height="70" width="70" src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png">
- <a href="https://github.com/FelipeRibeir0"><img alt="Github" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" ></a>
 </div>
     
   ##
