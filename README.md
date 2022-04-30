@@ -11,7 +11,7 @@
   ### Here I save projects according to my learning in studies
     
 - 👨‍💻 Hello, my name is Felipe Ribeiro
-- 🎓 I'm 18 years old
+- 🎓 I'm 19 years old
 -  💭I am a student of Technical Course in Systems Development at ETEC
   
   <h3>🔸These are the technologies that I am currently learning.</h3>
@@ -21,7 +21,7 @@
 <div align="left">
 <img alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<a href="https://github.com/FelipeRibeir0/Csharp_Games"> <img alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>      
+<a href="https://github.com/FelipeRibeir0/PedraPapelTesoura"> <img alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>      
 </div>
  
 ## 🔸 My tools.
