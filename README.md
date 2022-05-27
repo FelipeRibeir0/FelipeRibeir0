@@ -12,25 +12,17 @@
     
 - 👨‍💻 Hello, my name is Felipe Ribeiro
 - 🎓 I'm 19 years old
--  💭I am a student of Technical Course in Systems Development at ETEC
+- 💭I am a student of Technical Course in Systems Development at ETEC
   
   <h3>🔸These are the technologies that I am currently learning.</h3>
   
   ##
 
 <div align="left">
-<img alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<a href="https://github.com/FelipeRibeir0/PedraPapelTesoura"> <img alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>      
-</div>
- 
-## 🔸 My tools.
-    
-<div align="left">
-<a href="https://github.com/FelipeRibeir0">
-<img alt="Git" height="70" width="70" src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png">
-<img alt="VS Code" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img alt="VS" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png">
+<a href="https://github.com/FelipeRibeir0/HtmlCss01"><img alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<img alt="Figma" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+<a href="https://github.com/FelipeRibeir0/PedraPapelTesoura"> <img alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
 </div>
     
   ##
