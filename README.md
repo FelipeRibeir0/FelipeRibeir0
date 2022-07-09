@@ -8,13 +8,13 @@
   <div style="display: inline_block"><br>
 <img align="right" alt="Dev-Gif" height="150" style="border-radius:45px;" src="https://thumbs.gfycat.com/JollyHalfBlowfish-size_restricted.gif">
     
-  ### Here I save projects according to my learning in studies
+  ### Here I save projects according to my learning
     
-- 👨‍💻 Hello, my name is Felipe Ribeiro
+- 👨‍💻 Hello, my name is Felipe Correia Ribeiro
 - 🎓 I'm 19 years old
-- 💭I am a student of Technical Course in Systems Development at ETEC
+- 💭I'm studying systems development technician at ETEC
   
-  <h3>🔸These are the technologies that I am currently learning.</h3>
+  <h3>🔸These are the technologies that I am learning.</h3>
   
   ##
 
@@ -23,6 +23,7 @@
 <img alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <img alt="Figma" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
 <a href="https://github.com/FelipeRibeir0/PedraPapelTesoura"> <img alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+<img alt="Java" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
     
   ##
