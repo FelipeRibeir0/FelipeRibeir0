@@ -1,4 +1,4 @@
-<h1 align="center">System.out.println("Hello, World!") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+<h1 align="center">System.out.print("Hello, World!") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
 
 <div align="center" height="180em">
   <a href="https://github.com/FelipeRibeir0">
