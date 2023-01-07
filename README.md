@@ -1,4 +1,4 @@
-<h1 align="center">System.out.print("Hello, World!") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+<h1 align="center">System.out.print("Hello, World!"); <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
 
 <div align="center" height="180em">
   <a href="https://github.com/FelipeRibeir0">
@@ -17,7 +17,10 @@
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
+  <a href="https://github.com/FelipeRibeir0/Curso_PHP">
+  <img align="center" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" width="80" alt="php elephant logo"/></a>
   <img align="right" alt="Dev-Gif" height="150" style="border-radius:45px;" src="https://thumbs.gfycat.com/JollyHalfBlowfish-size_restricted.gif">
+  
   
   ## Here I save projects according to my learning
     
@@ -29,7 +32,7 @@
   ##
   
 <div> 
-  <h3 align="left">🔸Contact me:</h3>
+  <h3 align="left">🔸Contact me on:</h3>
   <a href = "mailto:fecribeiro2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-ribeiro-8ba668229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="123" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/felipe-ribeiro-2003aswd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="123" target="_blank"></a>  
 </div>
