@@ -28,7 +28,7 @@
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   
-  # Studying :writing_hand:
+  # Learning :writing_hand:
   
   <a href="https://github.com/FelipeRibeir0/Curso_PHP">
   <img align="center" alt="PHP" width="80" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
