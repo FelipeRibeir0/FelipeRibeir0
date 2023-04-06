@@ -27,14 +27,17 @@
    <a href="https://github.com/FelipeRibeir0/HtmlCss01">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  
-  # Learning :writing_hand:
-  
   <a href="https://github.com/FelipeRibeir0/Curso_PHP">
   <img align="center" alt="PHP" width="80" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
   </a>
+  
+  # Learning :writing_hand:
+  
   <img align="center" alt="Laravel" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
     <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <a href="https://github.com/FelipeRibeir0/VarlianApp">
+  <img align="center" alt="Ionic" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
+  </a>
   
   # Interested :eyes:
   
