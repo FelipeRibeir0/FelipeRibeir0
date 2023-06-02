@@ -36,7 +36,7 @@
   <img align="center" alt="Laravel" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
     <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <a href="https://github.com/FelipeRibeir0/VarlianApp">
-  <img align="center" alt="Ionic" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
+  <img align="center" alt="Ionic" width="45" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ionic-icon.png">
   </a>
   
   # Interested :eyes:
