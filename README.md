@@ -1,4 +1,4 @@
-<h1 align="center">echo "Hello world!"; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+<h1 align="center">Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
 
 <div align="center" height="180em">
   <a href="https://github.com/FelipeRibeir0">
@@ -9,18 +9,15 @@
 <div>
 
   ## Here I save projects according to my learning
-  <img align="right" alt="Dev-Gif" height="150" style="border-radius:45px;" src="https://thumbs.gfycat.com/JollyHalfBlowfish-size_restricted.gif">
+  <img align="right" alt="Dev-Gif" height="150" src="https://thumbs.gfycat.com/JollyHalfBlowfish-size_restricted.gif">
   
 - 👨‍💻 Hello, my name is Felipe Correia Ribeiro
-- 🎓 I'm 19 years old
+- 🎓 I'm 20 years old
 - 💼 I'm available for new jobs
 - 💭I'm studying Systems Development technician at ETEC
     
   # Main skills :dart:
-  
-  <a href="https://github.com/FelipeRibeir0/PedraPapelTesoura">
-  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </a>
+
   <a href="https://github.com/FelipeRibeir0/HtmlCss01">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
@@ -30,14 +27,14 @@
   <a href="https://github.com/FelipeRibeir0/Curso_PHP">
   <img align="center" alt="PHP" width="80" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
   </a>
+  <a href="https://github.com/FelipeRibeir0/PedraPapelTesoura">
+  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
   
   # Learning :writing_hand:
   
-  <img align="center" alt="Laravel" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+  <img align="center" alt="Javascript" width="60" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png">
     <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <a href="https://github.com/FelipeRibeir0/VarlianApp">
-  <img align="center" alt="Ionic" width="45" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/ionic-icon.png">
-  </a>
   
   # Interested :eyes:
   
