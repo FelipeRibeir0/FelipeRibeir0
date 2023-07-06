@@ -1,4 +1,6 @@
-<h1 align="center">Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+<h1 align="center" >Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+
+### Hi there, my name is Felipe Ribeiro and i'm studying to be a back end developer
 
 <div align="center" height="180em">
   <a href="https://github.com/FelipeRibeir0">
@@ -14,34 +16,29 @@
 - 👨‍💻 Hello, my name is Felipe Correia Ribeiro
 - 🎓 I'm 20 years old
 - 💼 I'm available for new jobs
-- 💭I'm studying Systems Development technician at ETEC
     
   # Main skills :dart:
 
   <a href="https://github.com/FelipeRibeir0/HtmlCss01">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
    <a href="https://github.com/FelipeRibeir0/HtmlCss01">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://github.com/FelipeRibeir0/Curso_PHP">
-  <img align="center" alt="PHP" width="80" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
-  </a>
-  <a href="https://github.com/FelipeRibeir0/PedraPapelTesoura">
-  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://github.com/FelipeRibeir0/cursoFullStack">
+  <img alt="PHP" width="80" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
   </a>
   
   # Learning :writing_hand:
-  
-  <img align="center" alt="Javascript" width="60" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png">
-    <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <a href="https://github.com/FelipeRibeir0/aprendendoFirebase">
+  <img  alt="Javascript" width="60" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png">
+  </a>
+    <img  alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   
   # Interested :eyes:
-  
-  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <a href="https://github.com/FelipeRibeir0/Calculadora">
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </a>
+    <img  alt="Laravel" height="50" width="50" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
+  <img  alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img  alt="Node" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png">
 <div>
 
 
