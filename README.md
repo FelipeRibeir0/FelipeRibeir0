@@ -46,5 +46,5 @@
   
   <h3 align="left">🔸Contact me on:</h3>
   <a href = "mailto:fecribeiro2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-ribeiro-2003aswd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="123" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/felipe-c-ribeiro2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="123" target="_blank"></a>  
 </div>
