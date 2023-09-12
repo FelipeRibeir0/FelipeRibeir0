@@ -1,14 +1,13 @@
-<h1 align="center" >Hello, World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
+<h1 align="center" >Hello, world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height = 30px"></h1>
 
 ### Hi! My name is Felipe Ribeiro and i'm studying to be a back end developer
 
-<div align="center" height="180em">
-  <a href="https://github.com/FelipeRibeir0">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&hide=issues,prs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeir0&layout=compact&langs_count=6&theme=react"/>
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&rank_icon=github&show_icons=true&theme=react&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeRibeir0&layout=compact&langs_count=8&card_width=320&theme=react" />
+</a>
 <div>
 
   ## Here I save projects according to my learning
