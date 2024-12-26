@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Ribeiro</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&rank_icon=github&show_icons=true&theme=react&hide=issues" />
@@ -29,7 +29,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-    
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)    
 <div>  
   <h3 align="left">🔸Contact me on:</h3>
 
