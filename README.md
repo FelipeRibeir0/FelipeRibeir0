@@ -9,15 +9,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeRibeir0&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
 </div>
-
   <img src="https://github-profile-trophy.vercel.app?username=FelipeRibeir0&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-<div align="center">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=FelipeRibeir0&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-</div>
 <div>
 
   ## Here I save projects according to my learning
-  <img align="right" alt="Dev-Gif" height="150" src="https://thumbs.gfycat.com/JollyHalfBlowfish-size_restricted.gif">
   
 - 🎓 I'm 21 years old
 - 💼 I'm available for new jobs
