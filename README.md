@@ -5,7 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeir0&rank_icon=github&show_icons=true&theme=react&hide=issues" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeRibeir0&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
 </div>
